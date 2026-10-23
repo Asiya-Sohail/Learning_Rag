@@ -8,4 +8,6 @@ sentence-transformers
 chromadb
 numpy
 scikit-learn
-langchain-text-splittersoads
+langchain-text-splitters
+langchain-groq
+python-dotenv
