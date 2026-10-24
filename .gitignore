@@ -7,7 +7,8 @@ wheels/
 *.egg-info
 
 # Environment variables and secrets
-.env
 
 # Virtual environments
 .venv/
+config.bat
+node_modules
